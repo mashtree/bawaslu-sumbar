@@ -1,0 +1,141 @@
+/*****************************************
+*************************
+FITUR
+*************************
+\*****************************************
+|========== TOP MENU ================|
+- Beranda
+- profil
+  - sejarah pengawasan pemilu
+  - visi misi
+  - struktur organisasi
+  - profil pimpinan
+    - si x
+    - si y
+  - sekretariat jenderal
+    - jabatan x
+    - jabatan y
+  - tugas, wewenang dan kewajiban
+  - lokasi
+  - bawaslu propinsi
+- regulasi
+  - undang-undang
+  - xperpres
+  - pp
+  - keppres
+  - kepmendagri
+  - per bawaslu
+  - per kpu
+  - nota kesepahaman
+  - se, juknis dll
+  - sop
+- publikasi
+  - berita
+  - press release
+  - buletin
+  - galeri foto
+  - video
+- informasi
+  - hasil pengawasan pemilu
+  - keputusan sengketa
+- pengadaan 
+  - pengumuman lelang
+  - pengumuman hasil lelang
+- konsultasi
+- pengumuman
+  - seleksi panwas
+  - seleksi cpns
+|=========== RIGHT SIDE BAR =================|
+- banner
+  - rekrutmen cpns 2014
+  - laporkan pelanggaran pemilu
+  - webmail bawaslu
+- video pengawasan - slider
+- buletin bawaslu - slider
+- tautan
+  - RI
+  - KPU
+  - dewan kehormatan penyelenggara pemilu
+  - mpr
+  - dpr
+  - mk
+
+|========== BOTTOM MENU =================|
+- tentang bawaslu
+  - sejarah pengawasan pemilu
+  - visi misi
+  - tugas, wewenang dan kewajiban
+  - struktur organisasi
+  - bawaslu propinsi
+- regulasi
+  - undang-undang
+  - xperpres
+  - pp
+  - keppres
+  - per bawaslu  
+- publikasi
+  - berita
+  - press release
+  - buletin
+  - galeri foto
+  - galeri video
+- alamat
+  - sekretariat dst
+
+|========== FOOTER ==================|
+- copyright
+
+|========== HALAMAN HOME ================|
+- SLIDER
+  Berita populer/pilihan - gambar, judul dan uraian singkat
+- Konten Berita
+  - Terkini
+  - Press Release
+- galeri - tab
+  - galeri foto - slider
+  - galeri video - slider
+
+|=========== ARTIKEL ================|
+- judul
+- hari, tanggal, waktu create
+- artikel
+- lampiran
+- [socmed link]
+
+|========== PROFIL ===================|
+- judul
+- artikel
+
+|========== REGULASI =================|
+- pencarian per kategori
+- daftar regulasi [nomor, ttg, unduhan]
+
+|========== PUBLIKASI ================|
+- foto, buletin, video tampilkan gambar dan informasi serta unduhan [buletin]
+- yang lain list biasa
+
+|========== INFORMASI ================|
+- judul
+- penulis dan waktu
+- konten
+
+|========== PENGUMUMAN ===============|
+- judul
+- konten
+- download
+
+|========== KONSULTASI ===============|
+- form
+  - nama
+  - email
+  - kota
+  - judulpertanyaan
+  - pertanyaan
+  - captcha
+
+|========== PENGUMUMAN ===============|
+- judul
+- penulis
+- tanggal jam
+- konten
+- file pendukung aka download
